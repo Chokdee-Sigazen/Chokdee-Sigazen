@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chokdee</h1>
 <h3 align="center">I am chill guy that have fun when I have learned something new. I'm interested in Frontend Development, Backend Development and UI/UX designer. I have background for TOI18 and TOI17 with a bronze medal. I still learning new things every day and I hope to learn new things with you.</h3>
 
-- 🖥️ Project1 : [Croissant Bonk Community](https://chokdee-sigazen.github.io/Croissant-Bonk-Community/)
-
 - 🌱 I’m currently learning **Next.js**
+
+- 🖥️ Project1 : [Croissant Bonk Community](https://chokdee-sigazen.github.io/Croissant-Bonk-Community/)
 
 - 📺 Project2 : [Algorithm.io](https://chokdee-sigazen.github.io/Algorithm.io/)
 
