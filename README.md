@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/152XoYhkVzjvBKU0laeyMEChwwglXZsUj/view?usp=sharing](https://drive.google.com/file/d/152XoYhkVzjvBKU0laeyMEChwwglXZsUj/view?usp=sharing)
 
-- ⚡ Fun fact **I have very short memory. But I never forget you :). just kidding I forget everything**
+- ⚡ Fun fact **I have very short memory. But I never forget you :). just kidding I forget everything.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
