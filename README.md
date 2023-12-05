@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chokdee</h1>
-<h3 align="center">I am chill guy that have fun when I have learned something new. I'm interested in Frontend Development, Backend Development and UI/UX designer. I have background for TOI18 and TOI17 with a bronze medal. I still learning new things every day and I hope to learn new things with you.</h3>
+<h3 align="center">I am computer engineering student with interested in Full-Stack website and
+application development. I always enjoy when I make and learn somethings new
+while making projects. I still learning new things every day and I hope to learn
+new things with you.</h3>
 
 - 🌱 I’m currently learning **Next.js**
 
