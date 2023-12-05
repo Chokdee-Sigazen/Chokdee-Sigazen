@@ -4,7 +4,7 @@ application development. I always enjoy when I make and learn somethings new
 while making projects. I still learning new things every day and I hope to learn
 new things with you.</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **NextJS**
 
 - 🖥️ Project1 : [Croissant Bonk Community](https://chokdee-sigazen.github.io/Croissant-Bonk-Community/)
 
