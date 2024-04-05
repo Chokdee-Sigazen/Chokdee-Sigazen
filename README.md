@@ -41,7 +41,7 @@ application development</h3>
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sigazen)
 
-#My streak
+## My streak 🔥
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chokdee-Sigazen&theme=prussian&hide_border=true)
 
