@@ -1,30 +1,49 @@
 <h1 align="center">Hi 👋, I'm Chokdee</h1>
-<h3 align="center">I am computer engineering student with interested in Full-Stack website and
-application development. I always enjoy when I make and learn somethings new
-while making projects. I still learning new things every day and I hope to learn
-new things with you.</h3>
 
-- 🌱 I’m currently learning **NextJS**
 
-- 🖥️ Project1 : [Croissant Bonk Community](https://chokdee-sigazen.github.io/Croissant-Bonk-Community/)
+<br/>
+<h3>I'm computer engineering student with interested in Full-Stack website and
+application development</h3>
 
-- 📺 Project2 : [Algorithm.io](https://chokdee-sigazen.github.io/Algorithm.io/)
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://chokdee-sigazen.github.io/](https://chokdee-sigazen.github.io/)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+[![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 
-- 📫 How to reach me **prushyapong50@gmail.com**
+<br/>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/152XoYhkVzjvBKU0laeyMEChwwglXZsUj/view?usp=sharing](https://drive.google.com/file/d/152XoYhkVzjvBKU0laeyMEChwwglXZsUj/view?usp=sharing)
+![spotify_profile](https://github.com/Chokdee-Sigazen/Chokdee-Sigazen/assets/68228264/d77f3f76-284f-4905-b9d2-8aa7616967c0)
 
-- ⚡ Fun fact **I have very short memory. But I never forget you :). just kidding I forget everything.**
+![Chokdee-Sigazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chokdee-Sigazen&show_icons=true&theme=prussian&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chokdee-Sigazen&layout=compact&theme=transparent&hide_border=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prushyapong manosilapakorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prushyapong manosilapakorn" height="30" width="40" /></a>
-<a href="https://fb.com/ปรัชญาพงษ์ มโนศิลปกร" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ปรัชญาพงษ์ มโนศิลปกร" height="30" width="40" /></a>
-<a href="https://instagram.com/chok_pryp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chok_pryp" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chokdee_sgz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chokdee_sgz" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## Coding Stats 💀 (gotta get better soon)
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sigazen)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/choikdee50)](https://leetcode.com/JacobLinCool)
+
+## Trophies 🏆
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Chokdee-Sigazen)
+
+
+</div>
+
+
+
+
+
