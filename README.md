@@ -2,7 +2,7 @@
 
 
 <br/>
-<h3>I am computer engineering student with interested in Full-Stack website and
+<h3>I'm computer engineering student with interested in Full-Stack website and
 application development. I always enjoy when I make and learn somethings new
 while making projects. I still learning new things every day and I hope to learn
 new things with you.</h3>
@@ -25,15 +25,24 @@ new things with you.</h3>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 
+<br/>
 
 
-
-<div align="center">
 
 ![Chokdee-Sigazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chokdee-Sigazen&show_icons=true&theme=prussian&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chokdee-Sigazen&layout=compact&theme=transparent&hide_border=true)
 
-<br/>
+
+## Coding Stats 💀 (gotta get better soon)
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sigazen)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/choikdee50)](https://leetcode.com/JacobLinCool)
+
+## Trophies 🏆
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Chokdee-Sigazen)
+
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chokdee-Sigazen&repo=Algorithm.io&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chokdee-Sigazen&repo=Portfolio&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
