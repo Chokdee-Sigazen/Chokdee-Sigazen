@@ -3,9 +3,7 @@
 
 <br/>
 <h3>I'm computer engineering student with interested in Full-Stack website and
-application development. I always enjoy when I make and learn somethings new
-while making projects. I still learning new things every day and I hope to learn
-new things with you.</h3>
+application development</h3>
 
 <br/>
 
@@ -27,7 +25,7 @@ new things with you.</h3>
 
 <br/>
 
-
+![spotify_profile](https://github.com/Chokdee-Sigazen/Chokdee-Sigazen/assets/68228264/d77f3f76-284f-4905-b9d2-8aa7616967c0)
 
 ![Chokdee-Sigazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chokdee-Sigazen&show_icons=true&theme=prussian&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chokdee-Sigazen&layout=compact&theme=transparent&hide_border=true)
@@ -43,10 +41,6 @@ new things with you.</h3>
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Chokdee-Sigazen)
 
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chokdee-Sigazen&repo=Algorithm.io&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chokdee-Sigazen&repo=Portfolio&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-  
 </div>
 
 
