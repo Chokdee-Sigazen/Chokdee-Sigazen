@@ -25,7 +25,11 @@ application development</h3>
 
 <br/>
 
+## Being Chilling 🎵
+
 ![spotify_profile](https://github.com/Chokdee-Sigazen/Chokdee-Sigazen/assets/68228264/d77f3f76-284f-4905-b9d2-8aa7616967c0)
+
+## Github Stat💻
 
 ![Chokdee-Sigazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chokdee-Sigazen&show_icons=true&theme=prussian&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chokdee-Sigazen&layout=compact&theme=transparent&hide_border=true)
@@ -33,8 +37,9 @@ application development</h3>
 
 ## Coding Stats 💀 (gotta get better soon)
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sigazen)
 [![Leetcode Stats](https://leetcard.jacoblin.cool/choikdee50)](https://leetcode.com/JacobLinCool)
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sigazen)
 
 ## Trophies 🏆
 
